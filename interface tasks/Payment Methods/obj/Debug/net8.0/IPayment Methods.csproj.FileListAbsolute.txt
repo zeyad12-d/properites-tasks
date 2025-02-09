@@ -1,0 +1,14 @@
+D:\c .net\interface tasks\Payment Methods\bin\Debug\net8.0\IPayment Methods.exe
+D:\c .net\interface tasks\Payment Methods\bin\Debug\net8.0\IPayment Methods.deps.json
+D:\c .net\interface tasks\Payment Methods\bin\Debug\net8.0\IPayment Methods.runtimeconfig.json
+D:\c .net\interface tasks\Payment Methods\bin\Debug\net8.0\IPayment Methods.dll
+D:\c .net\interface tasks\Payment Methods\bin\Debug\net8.0\IPayment Methods.pdb
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\IPayment Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\IPayment Methods.AssemblyInfoInputs.cache
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\IPayment Methods.AssemblyInfo.cs
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\IPayment Methods.csproj.CoreCompileInputs.cache
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\IPayment Methods.dll
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\refint\IPayment Methods.dll
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\IPayment Methods.pdb
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\IPayment Methods.genruntimeconfig.cache
+D:\c .net\interface tasks\Payment Methods\obj\Debug\net8.0\ref\IPayment Methods.dll
